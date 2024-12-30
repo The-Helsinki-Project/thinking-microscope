@@ -1,4 +1,4 @@
-# Medical Image Enchancement
+# Microscope Image Enchancement
 
 ## Install
 
